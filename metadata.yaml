@@ -1,0 +1,31 @@
+_repo: The-Soul-Stealer_40520
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40520-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Thorne, Guy
+    alias: Gull, Cyril Arthur Edward Ranger
+    birthdate: 1875
+    deathdate: 1923
+    gutenberg_agent_id: '38288'
+    url: http://www.gutenberg.org/2009/agents/38288
+    wikipedia: http://www.gutenberg.org/ebooks/author/39349
+description: ''
+gutenberg_issued: '2012-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40520'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PR'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Soul -- Fiction'
+title: The Soul Stealer
+url: http://www.gutenberg.org/ebooks/40520
